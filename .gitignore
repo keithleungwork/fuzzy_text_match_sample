@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+# Custom
+
+# a sample folder for opensearch
+opensearch_db/opensearch-sample-data
+tmp
